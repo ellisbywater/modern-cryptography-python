@@ -10,6 +10,6 @@
 - [ ] Hash Function
 - [ ] Message Authentication Code
 - [ ] Public Key Cryptography
-- [ ] Diffie-Hellman Key Exchange
+- [x] Diffie-Hellman Key Exchange (work in progress)
 - [ ] RSA
 - [ ] Elliptic Curve Cryptography

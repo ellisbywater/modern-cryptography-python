@@ -1,9 +1,15 @@
 # Modern Cryptography in Python
 
-- Ceaeser Cipher
-- Substitution Cipher
-- Stream Cipher
-- Block Cipher
-- Hash Function
-- Message Authentication Code
-- Public Key Cryptography
+- [x] Ceaser's Cipher
+- [x] Substitution Cipher
+- [x] One Time Pad
+- [ ] Stream Cipher
+- [ ] Block Cipher
+- [ ] DES
+- [ ] AES
+- [ ] Hash Function
+- [ ] Message Authentication Code
+- [ ] Public Key Cryptography
+- [ ] Diffie-Hellman Key Exchange
+- [ ] RSA
+- [ ] Elliptic Curve Cryptography

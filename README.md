@@ -12,4 +12,4 @@
 - [ ] Public Key Cryptography
 - [x] Diffie-Hellman Key Exchange (work in progress)
 - [ ] RSA
-- [ ] Elliptic Curve Cryptography
+- [x] Elliptic Curve Cryptography (naive implementation)
